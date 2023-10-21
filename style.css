@@ -1,0 +1,34 @@
+#pink{
+    background-color: pink;
+}
+#Green{
+    background-color: rgb(89, 230, 89);
+}
+#yellow{
+    background-color: yellow;
+}
+
+.column{
+    width:300px;
+    margin: 0 auto;
+    padding: 15px;  
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+    margin-top: 25px;
+}
+.container{
+    margin-top: 200px;
+}
+
+button{
+    width: 100%;
+    height: 50px;
+    border: solid gray 4px;
+}
+
+body {
+    background: linear-gradient(transparent, rgb(250, 246, 250)), url("/home/dckap/Documents/backround.jpeg"), rgb(127, 194, 216);
+    background-size: cover;
+}
+
+
+
